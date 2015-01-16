@@ -1,0 +1,16 @@
+# Java ignore
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven ignore
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+#netbeans
+nbactions.xml
